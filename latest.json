@@ -1,7 +1,7 @@
 {
   "name": "DistortTool",
   "version": "2.0.1",
-  "url": "https://bitbucket.org/dgro/distorttool_updates/downloads/DistortTool_Setup.exe",
-  "notes": "Initial release with update system support.",
+  "url": "https://github.com/sergo2003/distorttool_updates/releases/latest/download/DistortTool_Setup.exe",
+  "notes": "Test update",
   "mandatory": false
 }
