@@ -7,7 +7,9 @@
   "title": "idee",
   "description": "test_idee",
   "message": "test_idee",
-  "attachments": [],
-  "status": "uploading",
+  "attachments": [
+    "screenshot_2.png"
+  ],
+  "status": "sent",
   "date": "2026-06-29 15:05:59"
 }
